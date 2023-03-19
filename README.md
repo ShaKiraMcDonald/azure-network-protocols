@@ -85,4 +85,4 @@ After retrieving the private IP address from VM2 (Linux Ubutu Server 20.04) we c
 <p align="center">
 <img src="https://i.imgur.com/rB07Fw7.png" height="80%" width="80%" alt="tcp 3389"/>
 </p>
-<p align="center"><i><b>"“We need to accept that we won’t always make the right decisions, that we’ll screw up royally sometimes―understanding that failure is not the opposite of success, it’s part of success.” ―Arianna Huffington”</p></i></b>
+<p align="center"><i><b>"“We need to accept that we won’t always make the right decisions, that we’ll screw up royally sometimes―understanding that failure is not the opposite of success, it’s part of success.” ―Arianna Huffington</p></i></b>
